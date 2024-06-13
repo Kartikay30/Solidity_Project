@@ -16,8 +16,8 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 contract MyToken {
 
     // public variables here
-    string public tokenName = "kartikaon";
-    string public tokenAbbrv = "IRON";
+    string public tokenName = "kartikon";
+    string public tokenAbbrv = "BOLT";
     uint256 public totalSupply = 0;
 
     // mapping variable here
