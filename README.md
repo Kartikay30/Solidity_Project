@@ -47,8 +47,8 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can use the deployed contract interface in Remix to call functions like transfer, balanceOf, etc.
 ## Authors
 
-Ishan Ojha  
-[@Ishan Ojha](https://ishanojhahs@gmail.com)
+Kartikay Awa 
+[@Kartikay Awasthi](https://kartikawas3.0@gmail.com)
 
 
 ## License
